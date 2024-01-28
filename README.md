@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects & Tools </h2>
 
 - <b>Vulnerability Scanning with Burpsuite</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Vulnerability Scan w/ Burpsuite](https://github.com/JFrye2Fly/VulnerabilityScanWBurpSuite/blob/main/README.md)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
