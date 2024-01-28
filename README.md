@@ -1,8 +1,8 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/JFrye2Fly">Aspiring Cyber Security Analyst</a>, <a href="https://www.linkedin.com/in/jeffrey-frye-12a95ba2/">Cybersecurity Professional</a> <!-- <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1> -->
+<h1>Hi, I'm Jeffrey! <br/><a href="https://github.com/JFrye2Fly">Aspiring Cyber Security Analyst</a>, <a href="https://www.linkedin.com/in/jeffrey-frye-12a95ba2/">Cybersecurity Professional</a> <!-- <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1> -->
 
 <h2>👨‍💻 Cyber Security Projects & Tools </h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Vulnerability Scanning with Burpsuite</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
