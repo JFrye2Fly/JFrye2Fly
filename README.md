@@ -5,7 +5,7 @@
 - <b>Vulnerability Scanning with Burpsuite</b>
   - [Vulnerability Scan w/ Burpsuite](https://github.com/JFrye2Fly/VulnerabilityScanWBurpSuite/blob/main/README.md)
 - <b>SQL queries for failed loginattempts</b>
-  - [SQL Operators in use](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [SQL Operators in use](https://github.com/JFrye2Fly/SQL)
 
     
 <!--
