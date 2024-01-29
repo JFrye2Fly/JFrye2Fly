@@ -7,7 +7,7 @@
 - <b>SQL queries for failed loginattempts</b>
   - [SQL Operators in use](https://github.com/JFrye2Fly/SQL)
 - <b>Change File Permissions with Linux</b>
-  - [Command line](https://github.com/JFrye2Fly/SQL))
+  - [Command line](https://github.com/JFrye2Fly/LinuxChangePermissions)
 
     
 <!--
