@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cyber Security Projects & Tools </h2>
 
+- <b>HoneyPot</b>
+  - [HoneyPot](https://github.com/JFrye2Fly/HoneyPot)
 - <b>Vulnerability Scanning with Burpsuite</b>
   - [Vulnerability Scan w/ Burpsuite](https://github.com/JFrye2Fly/VulnerabilityScanWBurpSuite/blob/main/README.md)
 - <b>SQL queries for failed loginattempts</b>
