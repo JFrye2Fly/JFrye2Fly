@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cyber Security Projects & Tools </h2>
 
+- <b>Azure Cloud SOC</b>
+  - [Azure Cloud SOC](https://github.com/JFrye2Fly/HoneyPot)
 - <b>HoneyPot</b>
   - [HoneyPot](https://github.com/JFrye2Fly/HoneyPot)
 - <b>Vulnerability Scanning with Burpsuite</b>
