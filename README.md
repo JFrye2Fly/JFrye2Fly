@@ -25,6 +25,6 @@
 
 [<img align="left" alt="JeffreyFrye | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: (https://www.linkedin.com/in/jeffrey-frye-12a95ba2/
+[linkedin]: [(](https://www.linkedin.com/in/jeffrey-frye-12a95ba2/)https://www.linkedin.com/in/jeffrey-frye-12a95ba2/
 
 
