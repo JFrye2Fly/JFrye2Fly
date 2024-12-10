@@ -7,7 +7,7 @@
 - <b>HoneyPot</b>
   - [HoneyPot](https://github.com/JFrye2Fly/HoneyPot)
 - <b>Reverse Shell -- Script from ExploitDB</b>
-  - [Reverse Shell](https://github.com/JFrye2Fly/VulnerabilityScanWBurpSuite/blob/main/README.md)
+  - [Reverse Shell](https://github.com/JFrye2Fly/Reverse-Shell)
 - <b>Analyzing packet captures with Wireshark</b>
   - [WireShark](https://github.com/JFrye2Fly/VulnerabilityScanWBurpSuite/blob/main/README.md)
 - <b>Vulnerability Scanning with Burpsuite</b>
