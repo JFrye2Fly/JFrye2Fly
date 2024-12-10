@@ -6,6 +6,13 @@
   - [Azure Cloud SOC](https://github.com/JFrye2Fly/Azure-Cloud-SOC)
 - <b>HoneyPot</b>
   - [HoneyPot](https://github.com/JFrye2Fly/HoneyPot)
+
+- <b>Reverse Shell -- Script from ExploitDB</b>
+  - [Reverse Shell](https://github.com/JFrye2Fly/VulnerabilityScanWBurpSuite/blob/main/README.md)
+ 
+- <b>Analyzing packet captures with Wireshark</b>
+  - [WireShark](https://github.com/JFrye2Fly/VulnerabilityScanWBurpSuite/blob/main/README.md)
+  
 - <b>Vulnerability Scanning with Burpsuite</b>
   - [Vulnerability Scan w/ Burpsuite](https://github.com/JFrye2Fly/VulnerabilityScanWBurpSuite/blob/main/README.md)
  
