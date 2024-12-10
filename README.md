@@ -9,7 +9,7 @@
 - <b>Reverse Shell -- Script from ExploitDB</b>
   - [Reverse Shell](https://github.com/JFrye2Fly/Reverse-Shell)
 - <b>Analyzing packet captures with Wireshark</b>
-  - [WireShark](https://github.com/JFrye2Fly/VulnerabilityScanWBurpSuite/blob/main/README.md)
+  - [WireShark](https://github.com/JFrye2Fly/Wireshark)
 - <b>Vulnerability Scanning with Burpsuite</b>
   - [Vulnerability Scan w/ Burpsuite](https://github.com/JFrye2Fly/VulnerabilityScanWBurpSuite/blob/main/README.md)
  
