@@ -13,7 +13,7 @@
 - <b>Vulnerability Scanning with Burpsuite</b>
   - [Vulnerability Scan w/ Burpsuite](https://github.com/JFrye2Fly/VulnerabilityScanWBurpSuite/blob/main/README.md)
 - <b>Phishing Training -- MasterCard</b>
-  - [Phishing Training -- MasterCard](https://github.com/JFrye2Fly/VulnerabilityScanWBurpSuite/blob/main/README.md)    
+  - [Phishing Training -- MasterCard](https://github.com/JFrye2Fly/Phishing-Training---MasterCartd)
  
 
 
