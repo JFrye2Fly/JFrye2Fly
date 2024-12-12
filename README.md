@@ -8,7 +8,7 @@
   - [Azure Cloud SOC](https://github.com/JFrye2Fly/Azure-Cloud-SOC)
 - <b>HoneyPot</b>
   - [HoneyPot](https://github.com/JFrye2Fly/HoneyPot)
-- <b>Reverse Shell -- Script from ExploitDB</b>
+- <b>Reverse Shell -- Script from ExploitDB + MetaSploit</b>
   - [Reverse Shell](https://github.com/JFrye2Fly/Reverse-Shell)
 - <b>Analyzing packet captures with Wireshark</b>
   - [WireShark](https://github.com/JFrye2Fly/Wireshark)
