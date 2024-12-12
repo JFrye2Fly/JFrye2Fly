@@ -1,4 +1,6 @@
-<h1>Hi, I'm Jeffrey! <br/><a href="https://github.com/JFrye2Fly">Aspiring Cyber Security Analyst</a>, <a href="https://www.linkedin.com/in/jeffrey-frye-12a95ba2/">Cybersecurity Professional</a> 
+<h1>Hi, I'm Jeffrey! <br/><a href="https://github.com/JFrye2Fly"> Cyber Security Analyst</a>
+  
+ <!-- <a href="https://www.linkedin.com/in/jeffrey-frye-12a95ba2/">Cybersecurity Professional</a> -->
 
 <h2>👨‍💻 Cyber Security Projects & Tools </h2>
 
