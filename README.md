@@ -6,10 +6,10 @@
 
 - <b>Azure Cloud SOC</b>
   - [Azure Cloud SOC](https://github.com/JFrye2Fly/Azure-Cloud-SOC)
-- <b>SPLUNK queries to investigate fraudulent events for CommonWealth Bank</b>
-  - [SPLUNK](https://github.com/JFrye2Fly/Splunk)
 - <b>HoneyPot</b>
   - [HoneyPot](https://github.com/JFrye2Fly/HoneyPot)
+- <b>SPLUNK queries to investigate fraudulent events for CommonWealth Bank</b>
+  - [SPLUNK](https://github.com/JFrye2Fly/Splunk)
 - <b>Reverse Shell -- Script from ExploitDB + MetaSploit</b>
   - [Reverse Shell](https://github.com/JFrye2Fly/Reverse-Shell)
 - <b>Analyzing packet captures with Wireshark</b>
