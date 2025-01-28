@@ -10,8 +10,6 @@
   - [HoneyPot](https://github.com/JFrye2Fly/HoneyPot)
 - <b>SPLUNK queries to investigate fraudulent events for CommonWealth Bank</b>
   - [SPLUNK](https://github.com/JFrye2Fly/Splunk)
-- <b>Reverse Shell -- Script from ExploitDB + MetaSploit</b>
-  - [Reverse Shell](https://github.com/JFrye2Fly/Reverse-Shell)
 - <b>Analyzing packet captures with Wireshark</b>
   - [WireShark](https://github.com/JFrye2Fly/Wireshark)
 - <b>Vulnerability Scanning with Burpsuite</b>
