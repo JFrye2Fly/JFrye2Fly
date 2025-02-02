@@ -7,7 +7,7 @@
 - <b>Azure Cloud Security Operations Center / HoneyNet</b>
   - [Azure Cloud SOC](https://github.com/JFrye2Fly/Azure-Cloud-SOC)
 - <b>SOC Simulator -- Phishing Incident!</b>
-  - [WireShark](https://google.com)
+  - [SOC Simulation -- Phishing Incident](https://github.com/JFrye2Fly/SOC-Simulator----Phishing-Incident)
 - <b>HoneyPot</b>
   - [HoneyPot](https://github.com/JFrye2Fly/HoneyPot)
 - <b>SPLUNK queries to investigate fraudulent events for CommonWealth Bank</b>
