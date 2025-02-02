@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Cyber Security Projects & Tools </h2>
 
-- <b>Azure Cloud SOC</b>
+- <b>Azure Cloud Security Operations Center / HoneyNet</b>
   - [Azure Cloud SOC](https://github.com/JFrye2Fly/Azure-Cloud-SOC)
 - <b>HoneyPot</b>
   - [HoneyPot](https://github.com/JFrye2Fly/HoneyPot)
