@@ -6,12 +6,12 @@
 
 - <b>Azure Cloud Security Operations Center / HoneyNet</b>
   - [Azure Cloud SOC](https://github.com/JFrye2Fly/Azure-Cloud-SOC)
+- <b>SOC Simulator -- Phishing Incident!</b>
+  - [WireShark](https://google.com)
 - <b>HoneyPot</b>
   - [HoneyPot](https://github.com/JFrye2Fly/HoneyPot)
 - <b>SPLUNK queries to investigate fraudulent events for CommonWealth Bank</b>
   - [SPLUNK](https://github.com/JFrye2Fly/Splunk)
-- <b>Analyzing packet captures with Wireshark</b>
-  - [WireShark](https://github.com/JFrye2Fly/Wireshark)
 - <b>Vulnerability Scanning with Burpsuite</b>
   - [Vulnerability Scan w/ Burpsuite](https://github.com/JFrye2Fly/VulnerabilityScanWBurpSuite/blob/main/README.md)
 - <b>Phishing Training -- MasterCard</b>
@@ -20,6 +20,8 @@
   - [Security Advisory Email Apache Log4J Critical Vulnerability  -- AIG (American Insurance Group)](https://github.com/JFrye2Fly/AIG-Security-Advisory-Email-Critical-Vulnerability)
 
 <!--  
+- <b>Analyzing packet captures with Wireshark</b>
+  - [WireShark](https://github.com/JFrye2Fly/Wireshark)
 - <b>SQL queries for failed loginattempts</b>
   - [SQL Operators in use](https://github.com/JFrye2Fly/SQL)
 - <b>Change File Permissions with Linux</b>
