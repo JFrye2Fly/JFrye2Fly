@@ -6,6 +6,8 @@
 
 - <b>Azure Cloud Security Operations Center / HoneyNet</b>
   - [Azure Cloud SOC](https://github.com/JFrye2Fly/Azure-Cloud-SOC)
+- <b>SOAR & EDR Project</b>
+  - [SOAR & EDR Project](https://https://github.com/JFrye2Fly/SOAR-EDR)
 - <b>SOC Simulator -- Phishing Incident!</b>
   - [SOC Simulation -- Phishing Incident](https://github.com/JFrye2Fly/SOC-Simulator----Phishing-Incident)
 - <b>HoneyPot</b>
