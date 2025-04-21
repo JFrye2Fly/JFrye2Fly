@@ -14,7 +14,7 @@
   - [HoneyPot](https://github.com/JFrye2Fly/HoneyPot)
 - <b>SPLUNK queries to investigate fraudulent events for CommonWealth Bank</b>
   - [SPLUNK](https://github.com/JFrye2Fly/Splunk)
-- <b>Vulnerability Scanning with Burpsuite</b>
+- <b>Vulnerability Management Policy Implementation & Scans</b>
   - [Vulnerability Scan w/ Burpsuite](https://github.com/JFrye2Fly/VulnerabilityScanWBurpSuite/blob/main/README.md)
 - <b>Phishing Training -- MasterCard</b>
   - [Phishing Training -- MasterCard](https://github.com/JFrye2Fly/Phishing-Training---MasterCartd)
