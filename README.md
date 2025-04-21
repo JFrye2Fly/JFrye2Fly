@@ -14,9 +14,9 @@
   - [HoneyPot](https://github.com/JFrye2Fly/HoneyPot)
 - <b>SPLUNK queries to investigate fraudulent events for CommonWealth Bank</b>
   - [SPLUNK](https://github.com/JFrye2Fly/Splunk)
-- <b>Vulnerability Management Policy Implementation & Scans w/ Tenable Nessus
+- <b>Vulnerability Management Program w/ Tenable Nessus
   </b>
-  - [Vulnerability Scan w/ Burpsuite](https://github.com/JFrye2Fly/VulnerabilityScanWBurpSuite/blob/main/README.md)
+  - [Vulnerability Management Program](https://github.com/JFrye2Fly/VulnerabilityScanWBurpSuite/blob/main/README.md)
 - <b>Phishing Training -- MasterCard</b>
   - [Phishing Training -- MasterCard](https://github.com/JFrye2Fly/Phishing-Training---MasterCartd)
 - <b>Security Advisory Email Apache Log4J Critical Vulnerability  -- AIG (American Insurance Group)</b>
