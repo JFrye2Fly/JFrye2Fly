@@ -16,7 +16,7 @@
   - [SPLUNK](https://github.com/JFrye2Fly/Splunk)
 - <b>Vulnerability Management Program w/ Tenable Nessus
   </b>
-  - [Vulnerability Management Program](https://github.com/JFrye2Fly/VulnerabilityScanWBurpSuite/blob/main/README.md)
+  - [Vulnerability Management Program](https://github.com/JFrye2Fly/VulnerabilityManagementProgram)
 - <b>Phishing Training -- MasterCard</b>
   - [Phishing Training -- MasterCard](https://github.com/JFrye2Fly/Phishing-Training---MasterCartd)
 - <b>Security Advisory Email Apache Log4J Critical Vulnerability  -- AIG (American Insurance Group)</b>
