@@ -7,7 +7,7 @@
 - <b>Azure Cloud Security Operations Center / HoneyNet</b>
   - [Azure Cloud SOC](https://github.com/JFrye2Fly/Azure-Cloud-SOC)
 - <b>Routing and Traffic Control with PfSense</b>
-  - [Azure Cloud SOC](https://github.com/JFrye2Fly/Azure-Cloud-SOC)
+  - [PFSense as a Router & Firewall](https://github.com/JFrye2Fly/PFSense-As-a-Router-Firewall?files=1)
 - <b>RDP Suspicious Login</b>
   - [Threat Hunt Scenario](https://github.com/JFrye2Fly/threat-hunt-scenario-suspicious-rdp-login)
 - <b>SOAR & EDR Project</b>
