@@ -4,6 +4,8 @@
 
 <h2>👨‍💻 Cyber Security Projects & Tools </h2>
 
+- <b>Splunk Home Lab</b>
+  - [Splunk Home Lab](https://github.com/JFrye2Fly/Splunk-Home-Lab/tree/main)
 - <b>Azure Cloud Security Operations Center / HoneyNet</b>
   - [Azure Cloud SOC](https://github.com/JFrye2Fly/Azure-Cloud-SOC)
 - <b>Routing and Traffic Control with PfSense</b>
