@@ -14,6 +14,8 @@
   - [Threat Hunt Scenario](https://github.com/JFrye2Fly/threat-hunt-scenario-suspicious-rdp-login)
 - <b>SOAR & EDR Project</b>
   - [SOAR & EDR Project](https://https://github.com/JFrye2Fly/SOAR-EDR)
+- <b>Phishing Training -- MasterCard</b>
+  - [Phishing Training -- MasterCard](https://github.com/JFrye2Fly/Phishing-Training---MasterCartd)
 - <b>SOC Simulator -- Phishing Incident!</b>
   - [SOC Simulation -- Phishing Incident](https://github.com/JFrye2Fly/SOC-Simulator----Phishing-Incident)
 - <b>HoneyPot</b>
@@ -23,8 +25,6 @@
 - <b>Vulnerability Management Program w/ Tenable Nessus
   </b>
   - [Vulnerability Management Program](https://github.com/JFrye2Fly/VulnerabilityManagementProgram)
-- <b>Phishing Training -- MasterCard</b>
-  - [Phishing Training -- MasterCard](https://github.com/JFrye2Fly/Phishing-Training---MasterCartd)
 
 
 <!--  
