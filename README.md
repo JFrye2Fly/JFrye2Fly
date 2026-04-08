@@ -25,8 +25,7 @@
   - [Vulnerability Management Program](https://github.com/JFrye2Fly/VulnerabilityManagementProgram)
 - <b>Phishing Training -- MasterCard</b>
   - [Phishing Training -- MasterCard](https://github.com/JFrye2Fly/Phishing-Training---MasterCartd)
-- <b>Security Advisory Email Apache Log4J Critical Vulnerability  -- AIG (American Insurance Group)</b>
-  - [Security Advisory Email Apache Log4J Critical Vulnerability  -- AIG (American Insurance Group)](https://github.com/JFrye2Fly/AIG-Security-Advisory-Email-Critical-Vulnerability)
+
 
 <!--  
 - <b>Analyzing packet captures with Wireshark</b>
