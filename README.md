@@ -11,7 +11,7 @@
 - <b>Routing and Traffic Control with PfSense</b>
   - [PFSense as a Router & Firewall](https://github.com/JFrye2Fly/PFSense-As-a-Router-Firewall?files=1)
 - <b>Lets Defend Writeup: Forced Authentication Alert</b>
-  - [PFSense as a Router & Firewall](https://github.com/JFrye2Fly/Forced-Authentication/blob/main/README.md)
+  - [Let's Defend Writeup: Forced Authentication Alert](https://github.com/JFrye2Fly/Forced-Authentication/blob/main/README.md)
 - <b>RDP Suspicious Login</b>
   - [Threat Hunt Scenario](https://github.com/JFrye2Fly/threat-hunt-scenario-suspicious-rdp-login)
 - <b>SOAR & EDR Project</b>
