@@ -10,6 +10,8 @@
   - [Azure Cloud SOC](https://github.com/JFrye2Fly/Azure-Cloud-SOC)
 - <b>Routing and Traffic Control with PfSense</b>
   - [PFSense as a Router & Firewall](https://github.com/JFrye2Fly/PFSense-As-a-Router-Firewall?files=1)
+- <b>Lets Defend Writeup: Forced Authentication Alert</b>
+  - [PFSense as a Router & Firewall](https://github.com/JFrye2Fly/Forced-Authentication/blob/main/README.md)
 - <b>RDP Suspicious Login</b>
   - [Threat Hunt Scenario](https://github.com/JFrye2Fly/threat-hunt-scenario-suspicious-rdp-login)
 - <b>SOAR & EDR Project</b>
