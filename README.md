@@ -5,21 +5,21 @@
 <h2>👨‍💻 Cyber Security Projects & Tools </h2>
 
 - <b>Splunk Home Lab</b>
-  - [Splunk Home Lab](https://github.com/JFrye2Fly/Splunk-Home-Lab/tree/main) <hr>
+  - [Splunk Home Lab](https://github.com/JFrye2Fly/Splunk-Home-Lab/tree/main) 
 - <b>Azure Cloud Security Operations Center / HoneyNet</b>
-  - [Azure Cloud SOC](https://github.com/JFrye2Fly/Azure-Cloud-SOC) <hr>
+  - [Azure Cloud SOC](https://github.com/JFrye2Fly/Azure-Cloud-SOC)
 - <b>Vulnerability Management Program w/ Tenable Nessus
-  - [Vulnerability Management Program](https://github.com/JFrye2Fly/VulnerabilityManagementProgram)<hr>
+  - [Vulnerability Management Program](https://github.com/JFrye2Fly/VulnerabilityManagementProgram)
 - <b>Routing and Traffic Control with PfSense</b>
-  - [PFSense as a Router & Firewall](https://github.com/JFrye2Fly/PFSense-As-a-Router-Firewall?files=1)<hr>
+  - [PFSense as a Router & Firewall](https://github.com/JFrye2Fly/PFSense-As-a-Router-Firewall?files=1)
 - <b>Lets Defend Writeup: Forced Authentication Alert</b>
-  - [Let's Defend Writeup: Forced Authentication Alert](https://github.com/JFrye2Fly/Forced-Authentication/blob/main/README.md)<hr>
+  - [Let's Defend Writeup: Forced Authentication Alert](https://github.com/JFrye2Fly/Forced-Authentication/blob/main/README.md)
 - <b>TOR Threat Hunt</b>
-  - [Threat Hunt Scenario](https://github.com/JFrye2Fly/threat-hunting-scenario-tor)<hr>
+  - [Threat Hunt Scenario](https://github.com/JFrye2Fly/threat-hunting-scenario-tor)
 - <b>SOAR & EDR Project</b>
-  - [SOAR & EDR Project](https://https://github.com/JFrye2Fly/SOAR-EDR)<hr>
+  - [SOAR & EDR Project](https://https://github.com/JFrye2Fly/SOAR-EDR)
 - <b>Phishing Training -- MasterCard</b>
-  - [Phishing Training -- MasterCard](https://github.com/JFrye2Fly/Phishing-Training---MasterCartd)<hr>
+  - [Phishing Training -- MasterCard](https://github.com/JFrye2Fly/Phishing-Training---MasterCartd)
 - <b>SPLUNK queries to investigate fraudulent events for CommonWealth Bank</b>
   - [SPLUNK](https://github.com/JFrye2Fly/Splunk)
 
