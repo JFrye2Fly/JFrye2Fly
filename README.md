@@ -8,7 +8,7 @@
   - [Splunk Home Lab](https://github.com/JFrye2Fly/Splunk-Home-Lab/tree/main)
 - <b>Azure Cloud Security Operations Center / HoneyNet</b>
   - [Azure Cloud SOC](https://github.com/JFrye2Fly/Azure-Cloud-SOC)
--  <b>Vulnerability Management Program w/ Tenable Nessus
+- <b>Vulnerability Management Program w/ Tenable Nessus
   - [Vulnerability Management Program](https://github.com/JFrye2Fly/VulnerabilityManagementProgram)
 - <b>Routing and Traffic Control with PfSense</b>
   - [PFSense as a Router & Firewall](https://github.com/JFrye2Fly/PFSense-As-a-Router-Firewall?files=1)
