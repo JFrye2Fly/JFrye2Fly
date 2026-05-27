@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cyber Security Projects & Tools </h2>
 
 - <b>Splunk Home Lab</b>
-  - [Splunk Home Lab](https://github.com/JFrye2Fly/Splunk-Home-Lab/tree/main)
+  - [Splunk Home Lab](https://github.com/JFrye2Fly/Splunk-Home-Lab/tree/main) <hr>
 - <b>Azure Cloud Security Operations Center / HoneyNet</b>
   - [Azure Cloud SOC](https://github.com/JFrye2Fly/Azure-Cloud-SOC)
 - <b>Vulnerability Management Program w/ Tenable Nessus
