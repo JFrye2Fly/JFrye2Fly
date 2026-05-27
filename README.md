@@ -11,15 +11,15 @@
 - <b>Vulnerability Management Program w/ Tenable Nessus
   - [Vulnerability Management Program](https://github.com/JFrye2Fly/VulnerabilityManagementProgram)<hr>
 - <b>Routing and Traffic Control with PfSense</b>
-  - [PFSense as a Router & Firewall](https://github.com/JFrye2Fly/PFSense-As-a-Router-Firewall?files=1)
+  - [PFSense as a Router & Firewall](https://github.com/JFrye2Fly/PFSense-As-a-Router-Firewall?files=1)<hr>
 - <b>Lets Defend Writeup: Forced Authentication Alert</b>
-  - [Let's Defend Writeup: Forced Authentication Alert](https://github.com/JFrye2Fly/Forced-Authentication/blob/main/README.md)
+  - [Let's Defend Writeup: Forced Authentication Alert](https://github.com/JFrye2Fly/Forced-Authentication/blob/main/README.md)<hr>
 - <b>TOR Threat Hunt</b>
-  - [Threat Hunt Scenario](https://github.com/JFrye2Fly/threat-hunting-scenario-tor)
+  - [Threat Hunt Scenario](https://github.com/JFrye2Fly/threat-hunting-scenario-tor)<hr>
 - <b>SOAR & EDR Project</b>
-  - [SOAR & EDR Project](https://https://github.com/JFrye2Fly/SOAR-EDR)
+  - [SOAR & EDR Project](https://https://github.com/JFrye2Fly/SOAR-EDR)<hr>
 - <b>Phishing Training -- MasterCard</b>
-  - [Phishing Training -- MasterCard](https://github.com/JFrye2Fly/Phishing-Training---MasterCartd)
+  - [Phishing Training -- MasterCard](https://github.com/JFrye2Fly/Phishing-Training---MasterCartd)<hr>
 - <b>SPLUNK queries to investigate fraudulent events for CommonWealth Bank</b>
   - [SPLUNK](https://github.com/JFrye2Fly/Splunk)
 
