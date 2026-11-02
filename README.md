@@ -14,6 +14,8 @@
   - [PFSense as a Router & Firewall](https://github.com/JFrye2Fly/PFSense-As-a-Router-Firewall?files=1)
 - <b>Lets Defend Writeup: Forced Authentication Alert</b>
   - [Let's Defend Writeup: Forced Authentication Alert](https://github.com/JFrye2Fly/Forced-Authentication/blob/main/README.md)
+- <b>Lets Defend Writeup: Malicious shortcut leads to device compromise and privilege escalation</b>
+  - [Let's Defend Writeup: Malicious Shortcut](https://github.com/JFrye2Fly/MaliciousShortcut)
 - <b>TOR Threat Hunt</b>
   - [Threat Hunt Scenario](https://github.com/JFrye2Fly/threat-hunting-scenario-tor)
 - <b>SOAR & EDR Project</b>
